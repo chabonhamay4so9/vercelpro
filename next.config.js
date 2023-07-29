@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   env: {
-    url:"http://ww38.mywordpress.com"
+    url:"http://svus.newsbulletin24hr.com"
   },
 }
 
